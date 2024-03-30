@@ -13,6 +13,7 @@ arch=(
   'x86_64'
   'arm'
   'aarch64'
+  'i686'
 )
 url='https://www.kernel.org/'
 license=(
